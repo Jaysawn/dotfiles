@@ -3,3 +3,4 @@ set shiftwidth=4
 set expandtab
 set number
 set hlsearch
+set cursorline
